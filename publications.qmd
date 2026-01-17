@@ -181,5 +181,5 @@ Uy JD, **Agawu A**. Screening is not as simple as it may seem. *Pediatrics*. 201
 
 </div>
 
-[View Google Scholar Profile](https://scholar.google.com/){.btn .btn-outline-primary}
-[View ORCID](https://orcid.org/){.btn .btn-outline-secondary}
+[View Google Scholar Profile](https://scholar.google.com/citations?user=ryrSWqsAAAAJ&hl=en){.btn .btn-outline-primary}
+[View ORCID](https://orcid.org/0000-0001-5343-5268){.btn .btn-outline-secondary}

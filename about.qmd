@@ -119,9 +119,9 @@ Fax: 323-361-3718
 
 ::: {.g-col-12 .g-col-md-6}
 ### Connect
-- [GitHub](https://github.com/agawulab)
-- [Google Scholar](https://scholar.google.com/)
-- [ORCID](https://orcid.org/)
+- [GitHub](https://github.com/atuagawu)
+- [Google Scholar](https://scholar.google.com/citations?user=ryrSWqsAAAAJ&hl=en)
+- [ORCID](https://orcid.org/0000-0001-5343-5268)
 :::
 
 :::
