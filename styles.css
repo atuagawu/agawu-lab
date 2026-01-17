@@ -1,0 +1,39 @@
+/* Additional CSS styles - this file supplements styles.scss */
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Image placeholders for missing images */
+img[src="images/headshot.jpg"] {
+  min-height: 200px;
+  background-color: #e2e8f0;
+  display: block;
+}
+
+img[src="images/logo.png"] {
+  min-height: 40px;
+}
+
+/* Ensure proper spacing */
+main {
+  min-height: calc(100vh - 200px);
+}
+
+/* Print styles */
+@media print {
+  .navbar, .page-footer {
+    display: none;
+  }
+
+  .hero-section {
+    background: white;
+    color: black;
+    border: 2px solid #333;
+  }
+
+  .hero-section h1 {
+    color: black;
+  }
+}

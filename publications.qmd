@@ -1,0 +1,185 @@
+---
+title: "Publications"
+subtitle: "Peer-reviewed research and scholarly work"
+toc: true
+toc-depth: 2
+---
+
+## Peer-Reviewed Original Research
+
+::: {.callout-tip appearance="minimal" icon=false}
+### 2025
+
+**Agawu A**, Nortey N, Jacobs C, Zebrowski A, Lin MP, Glassberg J. Respiratory phenotype and health care utilization patterns by adults with sickle cell disease. *Blood Adv*. 2025 Jan 14;9(1):143-150. [PMID: 39368809](https://pubmed.ncbi.nlm.nih.gov/39368809/)
+:::
+
+::: {.callout-tip appearance="minimal" icon=false}
+### 2023
+
+**Agawu A**, Kanagawa C, Wong J, Shults J, Feudtner C, Bewtra M. Pediatric Cholelithiasis in the United States: National Hospitalization Trends, 2006 to 2019. *J Pediatr Gastroenterol Nutr*. 2023 Dec 1;77(6):741-747. [PMID: 37755879](https://pubmed.ncbi.nlm.nih.gov/37755879/)
+
+---
+
+**Agawu A**, Chaiyachati BH, Radack J, Duncan AF, Ellison A. Patterns of Change in Race Category in the Electronic Medical Record of a Pediatric Population. *JAMA Pediatr*. 2023 May 1;177(5):536-539. [PMID: 36912853](https://pubmed.ncbi.nlm.nih.gov/36912853/)
+:::
+
+::: {.callout-tip appearance="minimal" icon=false}
+### 2022
+
+**Agawu A**, Shults J, Smith-Whitley K, Feudtner C. Age- and sex-specific rates of gall bladder disease in children with sickle cell disease. *Pediatr Blood Cancer*. 2022 Nov;69(11):e29863. [PMID: 35997530](https://pubmed.ncbi.nlm.nih.gov/35997530/)
+
+---
+
+Shaul E, **Agawu A**, Wood P, Umhoefer K, Mamula P. Management of Magnet Ingestions at a Large Tertiary Care Children's Hospital. *J Pediatr Gastroenterol Nutr*. 2022 Sep 1;75(3):334-339. [PMID: 35653435](https://pubmed.ncbi.nlm.nih.gov/35653435/)
+:::
+
+::: {.callout-tip appearance="minimal" icon=false}
+### 2021
+
+Wortzel JD, Wiebe DJ, Elahi S, **Agawu A**, Barg FK, Emmett EA. Ascertainment Bias in a Historic Cohort Study of Residents in an Asbestos Manufacturing Community. *Int J Environ Res Public Health*. 2021 Feb 24;18(5):2211. [PMID: 33668103](https://pubmed.ncbi.nlm.nih.gov/33668103/)
+:::
+
+::: {.callout-tip appearance="minimal" icon=false}
+### 2020
+
+**Agawu A**, Hanlon AL, Buttenheim AM, Song L, Fiks AG, Feemster KA. Disparities in Human Papillomavirus Vaccine Series Completion by Adolescent Males: A Retrospective Cohort Study. *Acad Pediatr*. 2020 Apr;20(3):364-373. [PMID: 31108236](https://pubmed.ncbi.nlm.nih.gov/31108236/)
+
+---
+
+Chaiyachati BH, **Agawu A**, Zorc JJ, Balamuth F. Trends in Pediatric Emergency Department Utilization after Institution of Coronavirus Disease-19 Mandatory Social Distancing. *J Pediatr*. 2020 Nov;226:274-277.e1. [PMID: 32702427](https://pubmed.ncbi.nlm.nih.gov/32702427/)
+:::
+
+::: {.callout-tip appearance="minimal" icon=false}
+### 2019
+
+**Agawu A**, Fahl C, Alexis D, Diaz T, Harris D, Harris MC, Aysola J, Cronholm PF, Higginbotham EJ. The Influence of Gender and Underrepresented Minority Status on Medical Student Ranking of Residency Programs. *J Natl Med Assoc*. 2019 Dec;111(6):665-673. [PMID: 31668360](https://pubmed.ncbi.nlm.nih.gov/31668360/)
+:::
+
+::: {.callout-tip appearance="minimal" icon=false}
+### 2018
+
+Godwin B, Liacouras C, Mehta V, Eisenberg J, **Agawu A**, Brown-Whitehorn T, Ruffner MA, Verma R, Cianferoni A, Spergel JM, Muir AB. A Review of Tertiary Referrals for Management of Pediatric Esophageal Eosinophilia. *Front Pediatr*. 2018 Jun 20;6:173. [PMID: 29974044](https://pubmed.ncbi.nlm.nih.gov/29974044/)
+:::
+
+::: {.callout-tip appearance="minimal" icon=false}
+### 2016
+
+Ajayi A, Hwang WT, Vapiwala N, Rosen M, Chapman CH, Both S, Shah M, Wang X, **Agawu A**, Gabriel P, Christodouleas J, Tochner Z, Deville C. Disparities in staging prostate magnetic resonance imaging utilization for nonmetastatic prostate cancer patients undergoing definitive radiation therapy. *Adv Radiat Oncol*. 2016 Jul 25;1(4):325-332. [PMID: 28740904](https://pubmed.ncbi.nlm.nih.gov/28740904/)
+:::
+
+::: {.callout-tip appearance="minimal" icon=false}
+### 2015
+
+**Agawu A**, Buttenheim AM, Taylor L, Song L, Fiks AG, Feemster KA. Sociodemographic Differences in Human Papillomavirus Vaccine Initiation by Adolescent Males. *J Adolesc Health*. 2015 Nov;57(5):506-14. [PMID: 26381919](https://pubmed.ncbi.nlm.nih.gov/26381919/)
+:::
+
+::: {.callout-tip appearance="minimal" icon=false}
+### 2011-2012
+
+Park J, Wrzesinski SH, Stern E, Look M, Criscione J, Ragheb R, Jay SM, Demento SL, **Agawu A**, Licona Limon P, Ferrandino AF, Gonzalez D, Habermann A, Flavell RA, Fahmy TM. Combination delivery of TGF-β inhibitor and IL-2 by nanoscale liposomal polymeric gels enhances tumour immunotherapy. *Nat Mater*. 2012 Oct;11(10):895-905. [PMID: 22797827](https://pubmed.ncbi.nlm.nih.gov/22797827/)
+
+---
+
+Sargeant TD, Desai AP, Banerjee S, **Agawu A**, Stopek JB. An in situ forming collagen-PEG hydrogel for tissue regeneration. *Acta Biomater*. 2012 Jan;8(1):124-32. [PMID: 21911086](https://pubmed.ncbi.nlm.nih.gov/21911086/)
+
+---
+
+Park J, Mattessich T, Jay SM, **Agawu A**, Saltzman WM, Fahmy TM. Enhancement of surface ligand display on PLGA nanoparticles with amphiphilic ligand conjugates. *J Control Release*. 2011 Nov 30;156(1):109-15. [PMID: 21723893](https://pubmed.ncbi.nlm.nih.gov/21723893/)
+:::
+
+---
+
+## Case Reports & Clinical Communications
+
+**Agawu A**, Wehrman A, Pogoriler J, Terry NA, Lin HC. A case report of a challenging diagnosis of biliary atresia in a patient receiving total parenteral nutrition. *BMC Pediatr*. 2019 Mar 8;19(1):72. [PMID: 30849955](https://pubmed.ncbi.nlm.nih.gov/30849955/)
+
+**Agawu A**, Sheppard S, Lin HC. A Novel VPS33B Mutation Causing a Mild Phenotype of Arthrogryposis, Renal dysfunction, and Cholestasis Syndrome. *J Pediatr Gastroenterol Nutr*. 2019 Aug;69(2):e55-e56. [PMID: 31343487](https://pubmed.ncbi.nlm.nih.gov/31343487/)
+
+Luks VL, **Agawu A**, Schwartz D, Sreedharan RR, Laje P. Magnet Entrapment in the Right Lower Quadrant: A Management Dilemma. *Clin Pediatr (Phila)*. 2021 Jun;60(6-7):321-324. [PMID: 33870754](https://pubmed.ncbi.nlm.nih.gov/33870754/)
+
+---
+
+## Book Chapters
+
+**Agawu A**, Muir AB. Disorders of the Esophagus. *Netter's Pediatrics*. Elsevier, 2022.
+
+Verma K, **Agawu A**. Obstruction and Malrotation. *Netter's Pediatrics*. Elsevier, 2022.
+
+---
+
+## Letters to the Editor
+
+Uy JD, **Agawu A**. Screening is not as simple as it may seem. *Pediatrics*. 2013 Apr;131(4):e1384-5. [PMID: 23547042](https://pubmed.ncbi.nlm.nih.gov/23547042/)
+
+---
+
+## Patents
+
+1. Sargeant T, Fischvogt G, Bettuchi M, Hodgkinson G, Stopek J, Desai A, **Agawu A**, Banerjee S. Wound Closure Device. US 20110087271 A1.
+
+2. Sargeant T, Stopek J, Bettuchi M, Desai A, **Agawu A**, Banerjee S. Wound Closure Device. US 20110087272 A1.
+
+3. Desai A, Sargeant T, **Agawu A**, Stopek J. In Situ Forming Biphasic Osteochondral Plug. US 20110282465 A1.
+
+4. Sargeant T, Stopek J, Desai A, **Agawu A**, Banerjee S. Molds For In Situ Forming Materials. US 20120022495 A1.
+
+5. Sargeant T, Desai A, **Agawu A**. Mirrored Arthroscope. US 20120108901 A1.
+
+6. Sargeant T, Desai A, **Agawu A**. Shape Memory Arthroscopic Camera. US 20120220827 A1.
+
+7. Sargeant T, Desai A, Stopek J, **Agawu A**, Banerjee S, Viola F. Closure Tape Dispenser. US 20130245677 A1.
+
+---
+
+## Selected Abstracts & Presentations
+
+::: {.callout-note appearance="minimal" icon=false}
+### Recent Presentations
+
+**Agawu A**, Caesar R, Frey M, Kelley-Quon L. A qualitative analysis of at-home central venous catheter (CVC) care by caregivers of children with intestinal failure. *Translational Science Meeting*, 2025.
+
+**Agawu A**, Chaiyachati BH, Radack J, Duncan AF, Ellison A. Frequency and Change Patterns of Race and Other Demographic Data in the Electronic Medical Record. *Pediatric Academic Societies*, 2022.
+
+**Agawu A**, Nortey N, Jacobs C, Zebrowski A, Lin M, Glassberg J. Association Between Episodic Cough and Wheeze and Health Care Utilization in Adults with Sickle Cell Disease. *American Thoracic Society International Conference*, 2022.
+:::
+
+---
+
+## Metrics
+
+<div class="metrics-grid">
+
+::: {.grid}
+::: {.g-col-6 .g-col-md-3}
+<div class="metric-card">
+<div class="metric-number">18</div>
+<div class="metric-label">Publications</div>
+</div>
+:::
+
+::: {.g-col-6 .g-col-md-3}
+<div class="metric-card">
+<div class="metric-number">7</div>
+<div class="metric-label">Patents</div>
+</div>
+:::
+
+::: {.g-col-6 .g-col-md-3}
+<div class="metric-card">
+<div class="metric-number">2</div>
+<div class="metric-label">Book Chapters</div>
+</div>
+:::
+
+::: {.g-col-6 .g-col-md-3}
+<div class="metric-card">
+<div class="metric-number">20+</div>
+<div class="metric-label">Abstracts</div>
+</div>
+:::
+:::
+
+</div>
+
+[View Google Scholar Profile](https://scholar.google.com/){.btn .btn-outline-primary}
+[View ORCID](https://orcid.org/){.btn .btn-outline-secondary}

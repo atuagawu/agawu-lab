@@ -1,0 +1,113 @@
+---
+title: "Agawu Lab"
+subtitle: "Using epidemiology and data science to measure and improve clinical outcomes"
+page-layout: full
+toc: false
+---
+
+::: {.hero-section}
+::: {.hero-content}
+
+# Welcome to the Agawu Lab
+
+We are a research group at **Children's Hospital Los Angeles** and **USC Keck School of Medicine** focused on improving clinical outcomes for children with complex gastrointestinal conditions.
+
+Our work combines **clinical epidemiology**, **caregiver-centered outcomes research**, and **data science** to understand and address the challenges facing pediatric patients with intestinal failure and their families.
+
+[Learn More About Our Research](#research-focus){.btn .btn-primary}
+[View Publications](publications.qmd){.btn .btn-outline-primary}
+
+:::
+:::
+
+## Research Focus {#research-focus}
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+### Clinical Epidemiology
+Understanding disease patterns, outcomes, and risk factors in pediatric intestinal failure and related conditions using large-scale data analysis.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### Caregiver Strain
+Measuring and addressing the burden experienced by families caring for children with chronic complex conditions, with a focus on developing interventions to support caregivers.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### Data Science
+Leveraging modern analytical approaches including machine learning and advanced statistical methods to extract insights from clinical data.
+:::
+
+:::
+
+---
+
+## Current Projects
+
+::: {.callout-note appearance="minimal"}
+### Caregiver Burden in Pediatric Intestinal Failure
+Investigating the multidimensional impact of caring for children with intestinal failure on families, including financial, emotional, and social domains.
+:::
+
+::: {.callout-note appearance="minimal"}
+### Outcomes in Pediatric Short Bowel Syndrome
+Analyzing long-term outcomes and predictors of intestinal adaptation in children with short bowel syndrome using multi-center registry data.
+:::
+
+::: {.callout-note appearance="minimal"}
+### Health Equity in Pediatric GI Care
+Examining disparities in access to specialized care and outcomes for children with complex gastrointestinal conditions.
+:::
+
+---
+
+## Principal Investigator
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+![Dr. Atu Agawu](images/headshot.jpg){.rounded .img-fluid fig-alt="Dr. Atu Agawu"}
+:::
+
+::: {.g-col-12 .g-col-md-8}
+### Atu Agawu, MD, MPH, MSCE
+
+**Assistant Professor of Clinical Pediatrics**
+Children's Hospital Los Angeles
+USC Keck School of Medicine
+
+Dr. Agawu is a pediatric gastroenterologist and clinical epidemiologist whose research focuses on improving outcomes for children with intestinal failure and understanding the experiences of their caregivers.
+
+[Read Full Bio](about.qmd){.btn .btn-sm .btn-outline-secondary}
+:::
+
+:::
+
+---
+
+## Contact
+
+Interested in collaborating or learning more about our work?
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+**Email:** [agawulab@chla.usc.edu](mailto:agawulab@chla.usc.edu)
+
+**Location:**
+Children's Hospital Los Angeles
+Intestinal Rehabilitation Center
+4650 Sunset Blvd
+Los Angeles, CA 90027
+:::
+
+::: {.g-col-12 .g-col-md-6}
+**Affiliations:**
+
+- [Children's Hospital Los Angeles](https://www.chla.org/)
+- [USC Keck School of Medicine](https://keck.usc.edu/)
+- [The Saban Research Institute](https://www.chla.org/research)
+:::
+
+:::

@@ -1,0 +1,50 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Agawu Lab"
+  description: "Using epidemiology and data science to measure and improve clinical outcomes"
+  site-url: https://agawulab.com
+
+  navbar:
+    background: "#2d2e2f"
+    foreground: "#FFFFFF"
+    logo: images/logo.png
+    left:
+      - href: index.qmd
+        text: Home
+      - href: publications.qmd
+        text: Publications
+      - href: projects.qmd
+        text: Projects
+      - href: about.qmd
+        text: About
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: envelope
+        href: mailto:agawulab@chla.usc.edu
+      - icon: github
+        href: https://github.com/agawulab
+
+  page-footer:
+    left: |
+      &copy; 2025 Agawu Lab | Children's Hospital Los Angeles
+    right: |
+      Built with [Quarto](https://quarto.org)
+
+  search: true
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles.scss]
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    link-external-newwindow: true
+    smooth-scroll: true
+
+execute:
+  freeze: auto

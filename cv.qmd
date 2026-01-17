@@ -1,0 +1,187 @@
+---
+title: "Curriculum Vitae"
+subtitle: "Atu Agawu, MD, MPH, MSCE"
+toc: true
+---
+
+::: {.callout-tip appearance="minimal"}
+## Download CV
+[Download Full CV (PDF)](files/Agawu_CV.pdf){.btn .btn-primary download="Agawu_CV.pdf"}
+
+*Last updated: January 2026*
+:::
+
+---
+
+## Current Positions
+
+**Assistant Professor of Clinical Pediatrics**
+Division of Gastroenterology, Hepatology, and Nutrition
+Children's Hospital Los Angeles | USC Keck School of Medicine
+*2024 - Present*
+
+**Saachi Physician-Scientist Scholar**
+Saban Research Institute
+*2024 - Present*
+
+**KL2 Mentored Career Development Scholar**
+Southern California Clinical Translational Science Institute (SC CTSI)
+*2025 - Present*
+
+---
+
+## Education
+
+| Year | Degree | Institution |
+|------|--------|-------------|
+| 2008 | BS, Biomedical Engineering | Yale University, New Haven, CT |
+| 2015 | MD | Perelman School of Medicine, University of Pennsylvania |
+| 2015 | MPH | Perelman School of Medicine, University of Pennsylvania |
+| 2022 | MSCE | Perelman School of Medicine, University of Pennsylvania |
+
+---
+
+## Postgraduate Training
+
+| Years | Training | Institution |
+|-------|----------|-------------|
+| 2015-2016 | Internship, Pediatrics | Children's Hospital of Philadelphia |
+| 2016-2018 | Residency, Pediatrics | Children's Hospital of Philadelphia |
+| 2019-2022 | Fellowship, Pediatric Gastroenterology | Children's Hospital of Philadelphia |
+| 2020-2023 | T32 Trainee (Mentors: Chris Feudtner, Meena Bewtra) | Perelman School of Medicine, University of Pennsylvania |
+| 2023-2024 | Advanced Pediatric Nutrition Fellowship | Children's Hospital Los Angeles |
+
+---
+
+## Board Certifications
+
+- American Board of Pediatrics - Pediatrics (2018, Active)
+- American Board of Pediatrics - Pediatric Gastroenterology (2023, Active)
+
+---
+
+## Licensure
+
+- California Medical License (2022, Active)
+- DEA Registration (2018, Active)
+
+---
+
+## Research Support
+
+### Current Funding
+
+::: {.callout-note appearance="minimal" icon=false}
+**KL2TR001854** (PIs: Siegel SJ, Burner ERE)
+*NIH NCATS via SC CTSI*
+Role: KL2 Mentored Career Development Scholar
+Period: July 2024 - Present
+Effort: 75%
+
+Institutional Career Development Core providing training to become a clinical translational investigator.
+:::
+
+### Completed Funding
+
+::: {.callout-note appearance="minimal" icon=false}
+**T32DK007740-24S1** (PI: Lewis JD)
+*NIH NIDDK*
+Role: T32 Trainee
+Period: July 2020 - June 2023
+
+Clinical Epidemiology Training in Gastroenterology - Supplemental training slot on post-doctoral training program for clinical investigators in gastrointestinal clinical research.
+:::
+
+::: {.callout-note appearance="minimal" icon=false}
+**3P42ES023720-01S1** (PI: Blair IK)
+*NIH NIEHS*
+Role: Co-Investigator
+Period: 2015 - 2016
+
+Minority supplement grant to facilitate training in social epidemiology; primary research objective was to conduct a historical cohort study investigating mechanisms of non-occupational exposure to asbestos and subsequent risk of mesothelioma.
+:::
+
+---
+
+## Honors & Awards
+
+| Year | Award | Organization |
+|------|-------|--------------|
+| 2025 | Journeys Program | American Pediatric Society / Society for Pediatric Research |
+| 2024 | Fellow of the Year, GI Division | Children's Hospital Los Angeles |
+| 2022 | Minority Trainee Development Scholarship | American Thoracic Society |
+| 2018 | Senior Resident Clinician Award | Children's Hospital of Philadelphia |
+| 2018 | Senior Resident Humanitarian Award | Children's Hospital of Philadelphia |
+| 2017-2019 | New Century Scholars Mentee | Academic Pediatric Association |
+| 2016 | Seymour Warshaw Distinguished First Year Resident Award | Children's Hospital of Philadelphia |
+| 2015 | Pediatric Research Prize | Perelman School of Medicine |
+| 2013 | Medical Student Research Preceptorship Award | Center of Excellence for Diversity in Health Education and Research |
+
+---
+
+## Teaching & Mentorship
+
+### Trainee Mentorship
+
+| Years | Trainee | Level | Project |
+|-------|---------|-------|---------|
+| 2025-present | Wilson Mourad, MD | Fellow | |
+| 2025-present | Kimberly Dawes, MD | Fellow | |
+| 2020-2022 | Christina Kanagawa | Medical Student | Validation of diagnostic codes for cholelithiasis |
+| 2020-2022 | Janeline Wong | Pre-medical Student | Validation of diagnostic codes for cholelithiasis |
+
+### Invited Lectures
+
+| Year | Title | Venue |
+|------|-------|-------|
+| 2025 | Fundamentals of MASLD: A Guide for Non-Gastroenterologists | Adolescent and Young Adult Medicine Grand Rounds, CHLA |
+| 2025 | Micronutrient Deficiencies | CHLA Resident Noon Conference |
+| 2023 | Patterns of Change in Race Category in the EMR | Boston Medical Center Research Seminar |
+| 2021 | Epidemiology of Pediatric Cholelithiasis | CHLA GI Grand Rounds |
+
+---
+
+## Service
+
+### Hospital & Institutional Service
+
+| Years | Role | Committee/Organization |
+|-------|------|------------------------|
+| 2025-present | Member | PI Advisory Committee, Saban Research Institute |
+| 2025-present | Member | Fellows Admissions Committee, GI Division, CHLA |
+| 2023-present | Member | Nutrition Committee, CHLA |
+| 2021-2023 | Member | Quality Improvement Committee, Division of GI, CHOP |
+| 2016-2017 | Executive Board Member | Alliance of Minority Physicians |
+| 2016-2017 | Executive Board Member | Minority Physician Alliance |
+| 2015-2016 | Member | Minority Physician Alliance |
+
+### Professional Service
+
+| Years | Role | Organization |
+|-------|------|--------------|
+| 2024-present | Member | Nutrition Committee, NASPGHAN |
+
+### Peer Review
+
+- Journal of Pediatric Gastroenterology and Nutrition (2024-present)
+- Nutrition in Clinical Practice (2024-present)
+
+---
+
+## Professional Memberships
+
+- American Gastroenterological Association (AGA), 2019-present
+- North American Society for Pediatric Gastroenterology, Hepatology and Nutrition (NASPGHAN), 2019-present
+- Society for Pediatric Research, 2021-present
+
+---
+
+## Selected Publications
+
+*See [Publications](publications.qmd) page for complete list (18 peer-reviewed publications, 7 patents, 2 book chapters)*
+
+---
+
+## Patents
+
+7 issued patents in medical device design (wound closure devices, arthroscopic instruments, tissue engineering scaffolds). See [Publications](publications.qmd) for complete list.

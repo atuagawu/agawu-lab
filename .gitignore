@@ -1,0 +1,32 @@
+# Quarto
+/.quarto/
+/_site/
+/_freeze/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# R files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+.venv/
+
+# Temporary files
+*.tmp
+*.temp
+
+**/*.quarto_ipynb

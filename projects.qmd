@@ -1,0 +1,116 @@
+---
+title: "Projects"
+subtitle: "Research projects and data analysis portfolio"
+toc: true
+---
+
+## Active Research Projects
+
+### Caregiver Burden in Pediatric Intestinal Failure
+
+::: {.project-card}
+**Status:** Active | **Funding:** *To be added*
+
+Families caring for children with intestinal failure face unique challenges including complex medical regimens, frequent hospitalizations, and significant lifestyle modifications. This project aims to:
+
+- Develop and validate instruments to measure caregiver burden specific to pediatric intestinal failure
+- Identify modifiable factors associated with caregiver strain
+- Design interventions to support families
+
+**Key Methods:** Survey development, psychometric validation, mixed methods
+:::
+
+---
+
+### Multi-Center Outcomes in Pediatric Short Bowel Syndrome
+
+::: {.project-card}
+**Status:** Active | **Funding:** *To be added*
+
+Leveraging multi-center registry data to understand long-term outcomes in children with short bowel syndrome. Research questions include:
+
+- Predictors of intestinal adaptation and enteral autonomy
+- Risk factors for complications including catheter-related bloodstream infections
+- Health-related quality of life outcomes
+
+**Key Methods:** Cohort studies, survival analysis, machine learning
+:::
+
+---
+
+### Health Equity in Pediatric GI Care
+
+::: {.project-card}
+**Status:** Active | **Funding:** *To be added*
+
+Examining disparities in access to specialized care and outcomes for children with complex gastrointestinal conditions:
+
+- Geographic variation in access to intestinal rehabilitation programs
+- Socioeconomic and racial/ethnic disparities in outcomes
+- Policy implications for improving equity
+
+**Key Methods:** Administrative data analysis, geospatial analysis, mixed methods
+:::
+
+---
+
+## Data Analysis Portfolio
+
+### Interactive Visualizations
+
+*Coming soon* - Interactive data visualizations and dashboards demonstrating analytical capabilities.
+
+---
+
+### Code & Reproducibility
+
+Selected code repositories and reproducible research materials:
+
+::: {.callout-note appearance="minimal" icon=false}
+**GitHub Repository**
+Analysis code for published research projects.
+[View on GitHub](https://github.com/agawulab){.btn .btn-sm .btn-outline-primary}
+:::
+
+---
+
+## Tools & Methods
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+### Statistical Analysis
+- R / RStudio
+- Stata
+- SAS
+- Python
+
+### Machine Learning
+- scikit-learn
+- tidymodels
+- XGBoost
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Data Visualization
+- ggplot2
+- Shiny
+- Quarto
+- Tableau
+
+### Other Tools
+- REDCap
+- Git/GitHub
+- SQL
+- LaTeX
+:::
+
+:::
+
+---
+
+## Collaborations
+
+We welcome collaborations with researchers, clinicians, and patient advocates interested in improving outcomes for children with intestinal failure and their families.
+
+Interested in collaborating? [Contact us](about.qmd#contact).
