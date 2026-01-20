@@ -25,18 +25,18 @@ Our work combines **clinical epidemiology**, **caregiver-centered outcomes resea
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-4}
-### Clinical Epidemiology
-Understanding disease patterns, outcomes, and risk factors in pediatric intestinal failure and related conditions using large-scale data analysis.
+### Outcomes in Pediatric Intestinal Failure
+Understanding disease patterns, outcomes, and risk factors in pediatric intestinal failure using large-scale data analysis and multi-center registry studies.
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-### Caregiver Strain
+### Caregiver Strain in Chronic Complex Conditions
 Measuring and addressing the burden experienced by families caring for children with chronic complex conditions, with a focus on developing interventions to support caregivers.
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-### Data Science
-Leveraging modern analytical approaches including machine learning and advanced statistical methods to extract insights from clinical data.
+### Non-Invasive Measurement of GI Physiology
+Developing and validating low-impact methods to assess gastrointestinal function in pediatric patients.
 :::
 
 :::
@@ -46,18 +46,18 @@ Leveraging modern analytical approaches including machine learning and advanced 
 ## Current Projects
 
 ::: {.callout-note appearance="minimal"}
-### Caregiver Burden in Pediatric Intestinal Failure
-Investigating the multidimensional impact of caring for children with intestinal failure on families, including financial, emotional, and social domains.
+### CO-PIF Registry
+Multi-center registry study examining outcomes in pediatric intestinal failure patients.
 :::
 
 ::: {.callout-note appearance="minimal"}
-### Outcomes in Pediatric Short Bowel Syndrome
-Analyzing long-term outcomes and predictors of intestinal adaptation in children with short bowel syndrome using multi-center registry data.
+### CGSQ-SF11 Validity in Complex GI Disease
+Validating the Caregiver Strain Questionnaire Short Form for use in families of children with complex gastrointestinal conditions.
 :::
 
 ::: {.callout-note appearance="minimal"}
-### Health Equity in Pediatric GI Care
-Examining disparities in access to specialized care and outcomes for children with complex gastrointestinal conditions.
+### Low-Impact Pediatric Gastric Content Volume Estimation
+Developing non-invasive methods to estimate gastric content volume in pediatric patients.
 :::
 
 ---
