@@ -25,13 +25,13 @@ Our work combines **clinical epidemiology**, **caregiver-centered outcomes resea
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-4}
-### Outcomes in Pediatric Intestinal Failure
-Understanding disease patterns, outcomes, and risk factors in pediatric intestinal failure using large-scale data analysis and multi-center registry studies.
+### Clinical Outcomes in Pediatric Intestinal Failure
+Understanding disease patterns, outcomes, and risk factors in pediatric intestinal failure using detailed clinical phenotyping.
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-### Caregiver Strain in Chronic Complex Conditions
-Measuring and addressing the burden experienced by families caring for children with chronic complex conditions, with a focus on developing interventions to support caregivers.
+### Measuring and Mitigating Caregiver Strain
+Measuring and developing interventions to address the burden experienced by families caring for children with chronic complex conditions.
 :::
 
 ::: {.g-col-12 .g-col-md-4}
@@ -46,18 +46,18 @@ Developing and validating low-impact methods to assess gastrointestinal function
 ## Current Projects
 
 ::: {.callout-note appearance="minimal"}
-### CO-PIF Registry
-Multi-center registry study examining outcomes in pediatric intestinal failure patients.
+### Clinical Outcome in Pediatric Intestinal Failure (CO-PIF) Registry
+Single center registry study examining outcomes in pediatric intestinal failure patients. Pending participation in the International Intestinal Failure Registry.
 :::
 
 ::: {.callout-note appearance="minimal"}
-### CGSQ-SF11 Validity in Complex GI Disease
+### Validity of the CGSQ-SF11 in Chronic Gastrointestinal Conditions
 Validating the Caregiver Strain Questionnaire Short Form for use in families of children with complex gastrointestinal conditions.
 :::
 
 ::: {.callout-note appearance="minimal"}
 ### Low-Impact Pediatric Gastric Content Volume Estimation
-Developing non-invasive methods to estimate gastric content volume in pediatric patients.
+Evaluating the feasibility of Gastric Content Volume Estimation using MRI techniques.
 :::
 
 ---
